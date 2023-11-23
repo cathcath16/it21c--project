@@ -4,12 +4,12 @@ public class Child extends Parent{
     Child(String name) {
         super(name);
     }
-     void gatanga(){
-        System.out.println(name + " stress sa life? bahala nana basta gwapa gihapon ta! lavarrnnn!!");
+     void haha(){
+        System.out.println(name + " wapoooo ayooooo");
     }
     
-    void sigegkaon(){
-        System.out.println(name + " dali mutambok pero lisod magpaniwang, unfaiiiiir!");
+    void haha(){
+        System.out.println(name + "macho gwapito");
     }
     
 }
